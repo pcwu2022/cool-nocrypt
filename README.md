@@ -1,5 +1,5 @@
 ## NTU Cool 沒加密課程搜尋程式使用方式
-1. 複製程式碼
+1. 複製nocrypt.js的程式碼
 2. 開啟NTUCool
 3. 開啟Console (F12 or Ctrl-Shift-I or Cmd-Option-I)
 4. 貼上程式碼
